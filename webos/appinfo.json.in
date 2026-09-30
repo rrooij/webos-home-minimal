@@ -1,0 +1,11 @@
+{
+    "id": "@APP_ID@",
+    "version": "0.1.0",
+    "vendor": "webos-home-minimal",
+    "type": "native",
+    "main": "webos-home-minimal",
+    "title": "Home Minimal",
+    "icon": "icon.png",
+    "largeIcon": "icon.png",
+    "iconColor": "#0e1116"
+}

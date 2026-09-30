@@ -1,0 +1,14 @@
+{
+    "returnValue": true,
+    "launchPoints": [
+        {"id": "netflix", "launchPointId": "netflix_default", "title": "Netflix", "iconColor": "#141414", "icon": "/nonexistent/netflix_80x80.png"},
+        {"id": "youtube.leanback.v4", "launchPointId": "youtube.leanback.v4_default", "title": "YouTube", "iconColor": "#ff0000"},
+        {"id": "com.webos.app.livetv", "launchPointId": "com.webos.app.livetv_default", "title": "Live TV", "iconColor": "#2b5797"},
+        {"id": "com.webos.app.hdmi1", "launchPointId": "com.webos.app.hdmi1_default", "title": "HDMI 1", "iconColor": "#3c3c3c"},
+        {"id": "com.webos.app.hdmi2", "launchPointId": "com.webos.app.hdmi2_default", "title": "HDMI 2", "iconColor": "#3c3c3c"},
+        {"id": "com.webos.app.browser", "launchPointId": "com.webos.app.browser_default", "title": "Web Browser", "iconColor": "#0f6cbd"},
+        {"id": "com.webos.app.discovery", "launchPointId": "com.webos.app.discovery_default", "title": "LG Content Store", "iconColor": "#a50034"},
+        {"id": "com.webos.app.browser", "launchPointId": "bookmark_1", "lptype": "bookmark", "title": "Example bookmark", "params": {"target": "https://example.com"}},
+        {"id": "org.webosbrew.hbchannel", "launchPointId": "org.webosbrew.hbchannel_default", "title": "Homebrew Channel", "iconColor": "#6b3fa0"}
+    ]
+}
